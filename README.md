@@ -4,13 +4,12 @@
         <title>Bert - HTML5 Boilerplate</title>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="description" content="">
+        <meta name="description" content="this is my HTML5 boilerplate">
         <meta name="viewport" content ="width=device width, initial-scale=1.0">
         <meta name="teamcolor" content="#44c8f5">
         <link rel="icon" href="favicon.svg">
         <link rel="apple-touch-icon" href="apple-touch-icon.png">
         <link rel="manifest" href="manifest.json">
-
         <style>
             header{
                 background-color: pink;
